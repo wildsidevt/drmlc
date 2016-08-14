@@ -40,10 +40,12 @@ h1 {
 h2 {
     font-size: 2em;
     font-weight: bold;
+    margin-bottom: 10px;
 }
 
 h3 {
     font-size: 1.5em;
+    margin-top: 5px;
 }
 
 .services {
@@ -67,11 +69,12 @@ table {
     border-collapse: collapse;
     width: 100%;
     height: 50px;
+    margin-bottom: 5px;
 
 }
 
 td {
-    background-color: darkgreen;
+    background-color: #08594F;
     color: white;
     padding: 20px;
     border: 10px solid white;
@@ -91,5 +94,21 @@ td {
 .right {
     text-align: right;
     width: 30%;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+a:visited {
+    text-decoration: none;
+    color: gray;
 }
 
