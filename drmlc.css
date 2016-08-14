@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    font-family: Candara, Trebuchet MS, Arial, Sans-serif;
+    background-color: #b1b1b1;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.main {
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 25px auto;
+    background: #ffffff;
+    padding: 15px;
+}
+
+.standout {
+    font-size: 1.75em;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
