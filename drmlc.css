@@ -15,9 +15,9 @@ body {
 .container {
     max-width: 1200px;
     width: 100%;
-    margin: 25px auto;
+    margin: 15px auto;
     background: #ffffff;
-    padding: 15px;
+    padding: 25px;
 }
 
 .standout {
@@ -40,4 +40,16 @@ h2 {
 
 h3 {
     font-size: 1.5em;
+}
+
+.services {
+    font-size: 1.25em;
+}
+
+#details {
+    margin-left: 20px;
+}
+
+.accent {
+    font-style: italic;
 }
