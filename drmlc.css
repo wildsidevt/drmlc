@@ -121,3 +121,16 @@
                 /*background-color: #C0C0C0;*/
                 font-weight: bolder;
             }
+            .email a {
+                display: inline;
+                color: #000000;
+                border-top: solid black 1.5px;
+                border-bottom: solid black 1.5px;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+            .email a:hover {
+                background-color: #C0C0C0;
+                font-weight: bold;
+            }
